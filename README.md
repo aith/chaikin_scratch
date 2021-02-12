@@ -1,2 +1,2 @@
-![gif of snakeskin](snakeskin.gif)
-[Sketch here](https://aith.github.io/sketch_of_snakeskin/index.html)
+a remix of 'snakeskin' using Chaikin Curves to round quads
+
